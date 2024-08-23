@@ -1,0 +1,98 @@
+NOMBRE,POS,EDAD,EST,P,EXP,UNIVERSIDAD
+Bo Nix10,QB,24,1.88 m,98 kg,N,Oregon
+Jarrett Stidham8,QB,28,1.91 m,97 kg,5,Auburn
+Zach Wilson4,QB,25,1.88 m,97 kg,4,BYU
+Tyler Badie36,RB,24,1.73 m,89 kg,1,Missouri
+Audric Estime37,RB,20,1.8 m,102 kg,N,Notre Dame
+Jaleel McLaughlin38,RB,23,1.7 m,84 kg,2,Youngstown State
+Samaje Perine25,RB,28,1.78 m,107 kg,8,Oklahoma
+Blake Watson43,RB,24,1.75 m,88 kg,N,Memphis
+Javonte Williams33,RB,24,1.78 m,99 kg,4,North Carolina
+Michael Burton20,FB,32,1.83 m,112 kg,10,Rutgers
+Michael Bandy83,WR,26,1.78 m,86 kg,3,San Diego
+Phillip Dorsett13,WR,31,1.78 m,83 kg,9,Miami
+Troy Franklin16,WR,21,1.91 m,81 kg,N,Oregon
+Lil'Jordan Humphrey17,WR,26,1.93 m,102 kg,5,Texas
+Brandon Johnson89,WR,26,1.88 m,88 kg,3,UCF
+Marvin Mims Jr.19,WR,22,1.8 m,82 kg,2,Oklahoma
+Tim Patrick12,WR,30,1.93 m,96 kg,7,Utah
+Josh Reynolds11,WR,29,1.91 m,87 kg,7,Texas A&M
+David Sills V87,WR,28,1.91 m,95 kg,3,West Virginia
+Courtland Sutton14,WR,28,1.93 m,97 kg,7,SMU
+Devaughn Vele81,WR,26,1.96 m,95 kg,N,Utah
+Jalen Virgil15,WR,26,1.85 m,95 kg,3,App State
+Nate Adkins45,TE,25,1.91 m,114 kg,2,South Carolina
+Greg Dulcich80,TE,24,1.93 m,111 kg,3,UCLA
+Hunter Kampmoyer84,TE,26,1.93 m,110 kg,1,Oregon
+Lucas Krull85,TE,26,1.98 m,117 kg,2,Pittsburgh
+Adam Trautman82,TE,27,1.96 m,114 kg,5,Dayton
+Thomas Yassmin86,TE,24,1.96 m,113 kg,N,Utah
+Alex Forsyth54,C,25,1.93 m,141 kg,2,Oregon
+Sam Mustipher61,C,28,1.91 m,138 kg,5,Notre Dame
+Luke Wattenberg60,C,26,1.96 m,136 kg,3,Washington
+Nick Gargiulo66,G,24,1.96 m,140 kg,N,South Carolina
+Oliver Jervis64,G,--,1.96 m,138 kg,N,Colorado State
+Quinn Meinerz77,G,25,1.91 m,145 kg,4,Wisconsin-Whitewater
+Ben Powers74,G,27,1.93 m,140 kg,6,Oklahoma
+Calvin Throckmorton76,G,28,1.96 m,141 kg,4,Oregon
+Quinn Bailey75,OT,28,1.98 m,146 kg,6,Arizona State
+Garett Bolles72,OT,32,1.96 m,136 kg,8,Utah
+Frank Crum73,OT,24,2.01 m,142 kg,N,Wyoming
+Demontrey Jacobs71,OT,25,1.98 m,142 kg,1,South Florida
+Mike McGlinchey69,OT,29,2.03 m,142 kg,7,Notre Dame
+Alex Palczewski63,OT,25,1.98 m,142 kg,2,Illinois
+Matt Peart79,OT,27,2.01 m,144 kg,5,UConn
+Will Sherman78,OT,25,1.93 m,136 kg,1,Colorado
+,,,,,,
+NOMBRE,POS,EDAD,EST,P,EXP,UNIVERSIDAD
+Zach Allen99,DE,27,1.96 m,129 kg,6,Boston College
+Angelo Blackson90,DE,31,1.93 m,144 kg,10,Auburn
+John Franklin-Myers98,DE,27,1.93 m,130 kg,7,Stephen F. Austin
+Matt Henningsen91,DE,25,1.91 m,131 kg,3,Wisconsin
+Eyioma Uwazurike96,DE,26,1.98 m,145 kg,2,Iowa State
+Elijah Garcia95,DT,26,1.96 m,136 kg,2,Rice
+Jordan Jackson94,DT,26,1.93 m,133 kg,1,Air Force
+D.J. Jones93,DT,29,1.83 m,138 kg,8,Ole Miss
+Jordan Miller68,DT,24,1.91 m,139 kg,N,SMU
+Malcolm Roach97,DT,26,1.91 m,131 kg,5,Texas
+Levelle Bailey56,LB,23,1.88 m,102 kg,N,Fresno State
+Cody Barton55,LB,27,1.88 m,107 kg,6,Utah
+Nik Bonitto42,LB,24,1.91 m,108 kg,3,Oklahoma
+Baron Browning5,LB,25,1.91 m,108 kg,4,Ohio State
+Jonathon Cooper0,LB,26,1.93 m,116 kg,4,Ohio State
+Jonah Elliss52,LB,21,1.88 m,111 kg,N,Utah
+Jonas Griffith50,LB,27,1.93 m,113 kg,4,Indiana State
+Thomas Incoom59,LB,25,1.88 m,120 kg,2,Central Michigan
+Alec Mock57,LB,--,1.91 m,108 kg,N,Air Force
+Durell Nchami53,LB,24,1.93 m,117 kg,1,Maryland
+Ronnie Perkins51,LB,24,1.91 m,114 kg,4,Oklahoma
+Drew Sanders41,LB,22,1.96 m,105 kg,2,Arkansas
+Alex Singleton49,LB,30,1.88 m,108 kg,6,Montana State
+Andre Smith23,LB,27,1.83 m,108 kg,5,North Carolina
+Justin Strnad40,LB,28,1.91 m,106 kg,5,Wake Forest
+Dondrea Tillman92,LB,26,1.91 m,122 kg,1,Indiana-Pennsylvania
+Kris Abrams-Draine31,CB,22,1.8 m,80 kg,N,Missouri
+Art Green28,CB,24,1.85 m,91 kg,1,Houston
+Kaleb Hayes46,CB,25,1.83 m,88 kg,1,BYU
+Damarri Mathis27,CB,25,1.8 m,88 kg,3,Pittsburgh
+Ja'Quan McMillian29,CB,24,1.78 m,83 kg,2,East Carolina
+Riley Moss21,CB,24,1.83 m,87 kg,2,Iowa
+Quinton Newsome36,CB,23,1.85 m,83 kg,N,Nebraska
+Tremon Smith1,CB,28,1.83 m,86 kg,7,Central Arkansas
+Pat Surtain II2,CB,24,1.88 m,91 kg,4,Alabama
+Reese Taylor35,CB,24,1.75 m,85 kg,1,Purdue
+Levi Wallace39,CB,29,1.83 m,81 kg,7,Alabama
+Omar Brown45,S,23,1.85 m,90 kg,N,Nebraska
+Brandon Jones22,S,26,1.83 m,86 kg,5,Texas
+Devon Key26,S,26,1.83 m,94 kg,1,Western Kentucky
+P.J. Locke6,S,27,1.78 m,91 kg,5,Texas
+Tanner McCalister30,S,24,1.8 m,86 kg,1,Ohio State
+JL Skinner34,S,23,1.93 m,99 kg,2,Boise State
+Keidron Smith43,S,24,1.88 m,95 kg,1,Kentucky
+Delarrin Turner-Yell32,S,24,1.8 m,90 kg,3,Oklahoma
+,,,,,,
+NOMBRE,POS,EDAD,EST,P,EXP,UNIVERSIDAD
+Wil Lutz3,PK,30,1.8 m,83 kg,9,Georgia State
+Riley Dixon9,P,30,1.93 m,100 kg,9,Syracuse
+Trenton Gill47,P,25,1.93 m,99 kg,3,NC State
+Mitchell Fraboni48,LS,27,1.88 m,101 kg,3,Arizona State
